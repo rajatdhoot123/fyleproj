@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e3fc794f6b269e4cb18c63bb8a0e971",
+    "revision": "f1ccf46ee44fce8ee07e9dab0aa8adc9",
     "url": "/fyleproj/index.html"
   },
   {
-    "revision": "38784102cf64ec62afb7",
+    "revision": "13332ba4241904fe583a",
     "url": "/fyleproj/static/css/main.bc619892.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fyleproj/static/js/2.d52160f9.chunk.js"
   },
   {
-    "revision": "38784102cf64ec62afb7",
-    "url": "/fyleproj/static/js/main.d65f2763.chunk.js"
+    "revision": "13332ba4241904fe583a",
+    "url": "/fyleproj/static/js/main.6943fd71.chunk.js"
   },
   {
     "revision": "64239577dc22342c6238",
